@@ -432,6 +432,7 @@ func renderInstaller() g.Widget {
 		g.Separator(),
 		g.Dummy(0, 5),
 
+		/*
 		g.Style().SetFontSize(20).To(
 			renderErrorCard(
 				DiscordYellow,
@@ -440,6 +441,7 @@ func renderInstaller() g.Widget {
 				90,
 			),
 		),
+		*/
 
 		g.Dummy(0, 5),
 
